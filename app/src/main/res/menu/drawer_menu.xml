@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/TituloMenu">
+    <menu>
+        <item
+            android:id="@+id/Inicio"
+            android:icon="@drawable/ic_home"
+            android:title="@string/Inicio"></item>
+
+        <item
+            android:id="@+id/Materia1"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso1">
+        </item>
+        <item
+            android:id="@+id/Materia2"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso2">
+        </item>
+        <item
+            android:id="@+id/Materia3"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso3">
+        </item>
+        <item
+            android:id="@+id/Materia4"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso4">
+        </item>
+        <item
+            android:id="@+id/Materia5"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso5">
+        </item>
+        <item
+            android:id="@+id/Materia6"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso6">
+        </item>
+        <item
+            android:id="@+id/Materia7"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso7">
+        </item>
+        <item
+            android:id="@+id/Materia8"
+            android:icon="@drawable/ic_book"
+            android:title="@string/Curso7">
+        </item>
+    </menu>
+</item>
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MATE FACIL</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="Inicio">Inicio</string>
+    <string name="Curso1">Ecuaciones Cuadráticas</string>
+    <string name="Curso2">Ecuaciones Lineales</string>
+    <string name="Curso3">Teorema de Pitagoras</string>
+    <string name="Curso4">Distancia entre dos puntos</string>
+    <string name="Curso5">Combinación y Permutación</string>
+    <string name="Curso6">Area y Perimetro (Rectangulos)</string>
+    <string name="Curso7">Area y Perimetro (Rombos)</string>
+    <string name="Curso8">Area y Perimetro (Circulos)</string>
+
+    <string name="TituloMenu">Temario</string>
+    <string name="TituloHome">Bienvenidos</string>
+    <string name="InfoAPP">MATE FACIl se creo con la finalidad de ayudar a resolver tus problemas matematicos de una forma sencilla en esta aplicación podras ingresar los datos principales del problema
+    y de forma sencilla y rapida podras ver la respuesta a tu problema.</string>
+    <string name="NameEmpresa">DGHV</string>
+    <string name="NivelCurso">Curso Basico</string>
+    <string name="NameAPP">MATE FACIL</string>
+    <string name="AcercaDe">Acerca de..</string>
+    <string name="todo">TODO</string>
+</resources>
