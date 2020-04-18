@@ -22,4 +22,17 @@
     <string name="NameAPP">MATE FACIL</string>
     <string name="AcercaDe">Acerca de..</string>
     <string name="todo">TODO</string>
+
+
+    <!--Fragment ecuaciones de segundo grado-->
+    <string name="grad_titulo">Ecuaciones de segundo grado</string>
+    <string name="grad_expresion">Expresion general</string>
+    <string name="grad_info">Se debe considerar que a debe ser diferente de 0.</string>
+    <string name="grad_x1">x1: </string>
+    <string name="grad_x2">x2: </string>
+    <string name="btn_resolver">Resolver</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="grad_a">a: </string>
+    <string name="grad_b">b: </string>
+    <string name="grad_c">c: </string>
 </resources>
