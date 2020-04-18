@@ -2,7 +2,9 @@
     <string name="app_name">MATE FACIL</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="todo">TODO</string>
 
+    <!--Titulo de las materias-->
     <string name="Inicio">Inicio</string>
     <string name="Curso1">Ecuaciones Cuadráticas</string>
     <string name="Curso2">Ecuaciones Lineales</string>
@@ -21,7 +23,7 @@
     <string name="NivelCurso">Curso Basico</string>
     <string name="NameAPP">MATE FACIL</string>
     <string name="AcercaDe">Acerca de..</string>
-    <string name="todo">TODO</string>
+
 
 
     <!--Fragment ecuaciones de segundo grado-->
@@ -46,4 +48,15 @@
     <string name="lin_igual">=</string>
     <string name="lin_x">x = </string>
     <string name="lin_y">y = </string>
+
+    <!--Teorema de pitagoras-->
+    <string name="pit_titulo">Teorema de Pitágoras</string>
+    <string name="pit_info">La longitud de la hipótenusa es igual a la raíz cuadrada de la suma de los
+    catetos al cuadrado.</string>
+    <string name="pit_marcar">Marca la casilla de la variable que desconoces</string>
+    <string name="pit_a">a</string>
+    <string name="pit_b">b</string>
+    <string name="pit_c">c</string>
+    <string name="pit_res">a/b/c: </string>
+
 </resources>
