@@ -42,7 +42,7 @@
     <string name="lin_titulo">Ecuaciones lineales 2x2</string>
     <string name="lin_info">Los sistemas de ecuaciones lineales 2x2 son aquellas que se componen
     de dos ecuaciones con dos incógnitas.</string>
-    <string name="lin_ecuacion">x + y = n</string>
+    <string name="lin_ecuacion">x + y =n</string>
     <string name="lin_x1">x +</string>
     <string name="lin_y1">y</string>
     <string name="lin_igual">=</string>

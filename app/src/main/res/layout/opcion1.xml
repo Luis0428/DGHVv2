@@ -15,6 +15,7 @@
         android:text="@string/grad_expresion"
         android:textAlignment="center"
         android:textSize="30sp"
+        android:textColor="#000"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.439"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,6 +51,7 @@
         android:layout_marginEnd="30dp"
         android:text="@string/grad_info"
         android:textSize="24sp"
+        android:textColor="#000"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
@@ -65,6 +67,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/grad_a"
         android:textSize="30sp"
+        android:textColor="#000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView6" />
 
@@ -78,6 +81,7 @@
         android:layout_toEndOf="@+id/textView10"
         android:autofillHints=""
         android:ems="10"
+        android:background="@drawable/et_personalizado"
         android:inputType="numberDecimal"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
@@ -97,6 +101,8 @@
         android:layout_toEndOf="@+id/editText"
         android:text="@string/btn_resolver"
         android:textSize="24sp"
+        android:textColor="#fff"
+        android:background="@drawable/btn_personalizado"
         app:layout_constraintStart_toEndOf="@+id/editText"
         app:layout_constraintTop_toBottomOf="@+id/textView6" />
 
@@ -110,6 +116,7 @@
         android:layout_marginTop="30dp"
         android:text="@string/grad_b"
         android:textSize="30sp"
+        android:textColor="#000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
@@ -123,6 +130,7 @@
         android:layout_toEndOf="@+id/textView11"
         android:autofillHints=""
         android:ems="10"
+        android:background="@drawable/et_personalizado"
         android:inputType="numberDecimal"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
@@ -142,6 +150,8 @@
         android:layout_toEndOf="@+id/editText2"
         android:text="@string/btn_limpiar"
         android:textSize="24sp"
+        android:background="@drawable/btn_personalizado"
+        android:textColor="#fff"
         app:layout_constraintStart_toEndOf="@+id/editText2"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
@@ -155,6 +165,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/grad_c"
         android:textSize="30sp"
+        android:textColor="#000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView11" />
 
@@ -168,6 +179,7 @@
         android:layout_toEndOf="@+id/textView12"
         android:autofillHints=""
         android:ems="10"
+        android:background="@drawable/et_personalizado"
         android:inputType="numberDecimal"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"

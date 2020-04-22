@@ -28,6 +28,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="12dp"
         android:text="@string/pit_marcar"
+        android:textColor="#000"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.529"
@@ -58,8 +59,6 @@
             android:id="@+id/radioButton5"
             android:layout_width="match_parent"
             android:layout_height="67dp"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentBottom="true"
             android:layout_marginEnd="0dp"
             android:layout_marginBottom="0dp" />
     </RadioGroup>
@@ -157,6 +156,8 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="57dp"
         android:text="@string/btn_resolver"
+        android:textColor="#fff"
+        android:background="@drawable/btn_personalizado"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView25" />
@@ -172,6 +173,8 @@
         android:layout_marginBottom="52dp"
         android:layout_toEndOf="@+id/button5"
         android:text="@string/btn_limpiar"
+        android:background="@drawable/btn_personalizado"
+        android:textColor="#fff"
         android:textSize="24sp"
         app:layout_constraintStart_toEndOf="@+id/button5"
         app:layout_constraintTop_toBottomOf="@+id/textView26" />
