@@ -99,7 +99,7 @@
     <string name="rombo_res_perimetro">Perímetro (cm):</string>
 
     <!--Área y perímetro (Circulo)-->
-    <string name="circ_titulo">Rectangulo</string>
+    <string name="circ_titulo">Circulo</string>
     <string name="circ_area">Área</string>
     <string name="circ_perimetro">Perímetro</string>
     <string name="circ_radio">Radio</string>
